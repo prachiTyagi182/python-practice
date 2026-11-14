@@ -1,0 +1,1 @@
+# pure array mein ek sath modification krna bina loop lgaye is vectorisation

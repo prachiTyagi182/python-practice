@@ -1,0 +1,5 @@
+a=[5,4,7,3,2,8,9,11]
+even=[]
+for i in range(0,len(a),2):
+    even.append(a[i])
+print(even)

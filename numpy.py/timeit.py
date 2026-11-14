@@ -1,0 +1,1 @@
+# %timeit jupiter notebook ya ipython mein use kr skte hai normal python mein nhi
